@@ -1,0 +1,16 @@
+C:\Users\deekshith.bc\source\repos\TextBlock\bin\Debug\TextBlock.exe.config
+C:\Users\deekshith.bc\source\repos\TextBlock\bin\Debug\TextBlock.exe
+C:\Users\deekshith.bc\source\repos\TextBlock\bin\Debug\TextBlock.pdb
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\TextBlock.csproj.AssemblyReference.cache
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\TextBlock.csproj.SuggestedBindingRedirects.cache
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\MainWindow.g.cs
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\App.g.cs
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\TextBlock_MarkupCompile.cache
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\TextBlock_MarkupCompile.lref
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\MainWindow.baml
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\TextBlock.g.resources
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\TextBlock.Properties.Resources.resources
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\TextBlock.csproj.GenerateResource.cache
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\TextBlock.csproj.CoreCompileInputs.cache
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\TextBlock.exe
+C:\Users\deekshith.bc\source\repos\TextBlock\obj\Debug\TextBlock.pdb
