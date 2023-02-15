@@ -1,0 +1,16 @@
+C:\Users\deekshith.bc\source\repos\Hello world\bin\Debug\Hello world.exe.config
+C:\Users\deekshith.bc\source\repos\Hello world\bin\Debug\Hello world.exe
+C:\Users\deekshith.bc\source\repos\Hello world\bin\Debug\Hello world.pdb
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\Hello world.csproj.AssemblyReference.cache
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\Hello world.csproj.SuggestedBindingRedirects.cache
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\MainWindow.g.cs
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\App.g.cs
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\Hello world_MarkupCompile.cache
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\Hello world_MarkupCompile.lref
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\MainWindow.baml
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\Hello world.g.resources
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\Hello_world.Properties.Resources.resources
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\Hello world.csproj.GenerateResource.cache
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\Hello world.csproj.CoreCompileInputs.cache
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\Hello world.exe
+C:\Users\deekshith.bc\source\repos\Hello world\obj\Debug\Hello world.pdb
