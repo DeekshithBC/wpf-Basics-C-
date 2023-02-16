@@ -1,0 +1,16 @@
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\Label.demo.csproj.AssemblyReference.cache
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\Label.demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\App.g.cs
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\Label.demo_MarkupCompile.cache
+C:\Users\deekshith.bc\source\repos\Label.demo\bin\Debug\Label.demo.exe.config
+C:\Users\deekshith.bc\source\repos\Label.demo\bin\Debug\Label.demo.exe
+C:\Users\deekshith.bc\source\repos\Label.demo\bin\Debug\Label.demo.pdb
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\MainWindow.g.cs
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\Label.demo_MarkupCompile.lref
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\MainWindow.baml
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\Label.demo.g.resources
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\Label.demo.Properties.Resources.resources
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\Label.demo.csproj.GenerateResource.cache
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\Label.demo.csproj.CoreCompileInputs.cache
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\Label.demo.exe
+C:\Users\deekshith.bc\source\repos\Label.demo\obj\Debug\Label.demo.pdb
