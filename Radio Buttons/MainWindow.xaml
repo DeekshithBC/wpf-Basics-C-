@@ -1,0 +1,45 @@
+﻿<Window x:Class="Radio_Buttons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Radio_Buttons"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label FontWeight="Bold"> who do you vote for?</Label>
+        <RadioButton x:Name="rbObama" Checked="rbObama_Checked" Unchecked="rbObama_Unchecked"  GroupName="Presidents" FontSize="30" VerticalContentAlignment="Center">
+            <WrapPanel>
+                <Image Height="30" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg"></Image>
+                <Label x:Name="lbobama"> Obama </Label>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton x:Name="rdTrump" Checked="rdTrump_Checked"  Unchecked="rdTrump_Unchecked" GroupName="Presidents" FontSize="30" VerticalContentAlignment="Center">
+            <WrapPanel>
+                <Image Height="30" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/330px-Donald_Trump_official_portrait.jpg"></Image>
+                <Label x:Name="lbtrump">Trump</Label>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton x:Name="rbMccain" Checked="rbMccain_Checked" Unchecked="rbMccain_Unchecked" GroupName="Presidents" FontSize="30" VerticalContentAlignment="Center">
+        <WrapPanel>
+            <Image Height="30" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/John_McCain_official_portrait_2009.jpg/330px-John_McCain_official_portrait_2009.jpg"></Image>
+                <Label x:Name="lbmccain">McCain</Label>
+        </WrapPanel>
+        </RadioButton>
+        <RadioButton x:Name="rbBiden" Checked="rbBiden_Checked" Unchecked="rbBiden_Unchecked"   GroupName="Presidents" FontSize="30" VerticalContentAlignment="Center">
+            <WrapPanel>
+                <Image Height="30" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/800px-Joe_Biden_presidential_portrait.jpg"></Image>
+                <Label x:Name="lbbiden">Biden</Label>
+            </WrapPanel>
+        </RadioButton>
+        <Label FontWeight="Bold">How is the feeling?</Label>
+        <RadioButton GroupName="Feelings" FontSize="10">Good</RadioButton>
+        <RadioButton GroupName="Feelings" FontSize="10">Ok</RadioButton>
+        <RadioButton GroupName="Feelings" FontSize="10">Notok</RadioButton>
+        <RadioButton GroupName="Feelings" FontSize="10">Bad</RadioButton>
+
+
+    </StackPanel>
+    
+       
+</Window>

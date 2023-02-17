@@ -1,0 +1,16 @@
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\Radio Buttons.csproj.AssemblyReference.cache
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\Radio Buttons.csproj.SuggestedBindingRedirects.cache
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\App.g.cs
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\Radio Buttons_MarkupCompile.cache
+C:\Users\deekshith.bc\source\repos\Radio Buttons\bin\Debug\Radio Buttons.exe.config
+C:\Users\deekshith.bc\source\repos\Radio Buttons\bin\Debug\Radio Buttons.exe
+C:\Users\deekshith.bc\source\repos\Radio Buttons\bin\Debug\Radio Buttons.pdb
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\MainWindow.g.cs
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\Radio Buttons_MarkupCompile.lref
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\MainWindow.baml
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\Radio Buttons.g.resources
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\Radio_Buttons.Properties.Resources.resources
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\Radio Buttons.csproj.GenerateResource.cache
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\Radio Buttons.csproj.CoreCompileInputs.cache
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\Radio Buttons.exe
+C:\Users\deekshith.bc\source\repos\Radio Buttons\obj\Debug\Radio Buttons.pdb
