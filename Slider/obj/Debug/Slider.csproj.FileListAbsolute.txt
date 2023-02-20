@@ -1,0 +1,16 @@
+C:\Users\deekshith.bc\source\repos\Slider\bin\Debug\Slider.exe.config
+C:\Users\deekshith.bc\source\repos\Slider\bin\Debug\Slider.exe
+C:\Users\deekshith.bc\source\repos\Slider\bin\Debug\Slider.pdb
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\Slider.csproj.AssemblyReference.cache
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\Slider.csproj.SuggestedBindingRedirects.cache
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\MainWindow.g.cs
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\App.g.cs
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\Slider_MarkupCompile.cache
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\Slider_MarkupCompile.lref
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\MainWindow.baml
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\Slider.g.resources
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\Slider.Properties.Resources.resources
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\Slider.csproj.GenerateResource.cache
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\Slider.csproj.CoreCompileInputs.cache
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\Slider.exe
+C:\Users\deekshith.bc\source\repos\Slider\obj\Debug\Slider.pdb
