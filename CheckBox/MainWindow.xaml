@@ -1,0 +1,38 @@
+﻿<Window x:Class="CheckBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label FontWeight="Bold">Food</Label>
+        <CheckBox x:Name="cbparent"  IsThreeState="True" Unchecked="cbparentCheckedchaneged"  Checked="cbparentCheckedchaneged" > Select all</CheckBox>
+        <CheckBox  Margin="15,5"  x:Name="cbveg" Unchecked="cbfoodcheckedchanged" Checked="cbfoodcheckedchanged" VerticalAlignment="Center">
+            <WrapPanel>
+                <Image Width="50" Source="https://c.ndtvimg.com/2020-09/if4pp5j8_vegetarian_625x300_30_September_20.jpg">
+                    
+                </Image>
+                <Label>Veg</Label>
+            </WrapPanel>
+        </CheckBox>
+        <CheckBox Margin="15,5" x:Name="cbvegnonveg" Unchecked="cbfoodcheckedchanged" Checked="cbfoodcheckedchanged" VerticalAlignment="Center">
+            <WrapPanel>
+                <Image Width="50" Source="https://img.traveltriangle.com/blog/wp-content/uploads/2021/12/Best-Non-Veg-Restaurants-in-Mumbai.jpg">
+
+                </Image>
+                <Label>Veg-Nonveg</Label>
+            </WrapPanel>
+        </CheckBox>
+        <CheckBox Margin="15,5" x:Name="cbnonveg" Unchecked="cbfoodcheckedchanged" Checked="cbfoodcheckedchanged"  VerticalAlignment="Center">
+            <WrapPanel>
+                <Image Width="50" Source="https://www.keralatourism.org/images/cuisine/thumb/Duck_Roast20131129115647_24_1.jpg">
+
+                </Image>
+                <Label>Non-Veg</Label>
+            </WrapPanel>
+        </CheckBox>
+
+    </StackPanel>
+</Window>
